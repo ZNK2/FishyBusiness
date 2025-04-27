@@ -1,2 +1,2 @@
 # FishyBusiness
-my first game idea
+My first game project
